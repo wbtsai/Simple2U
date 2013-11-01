@@ -20,3 +20,4 @@ Created by Nick Tsai 2013/10/31
 >最後將AMS重新寫一遍。將與Cobol的連接方式重新做一次， 這個計畫就算完成。
 
 
+
